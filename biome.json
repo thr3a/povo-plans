@@ -9,7 +9,8 @@
 			"recommended": true,
       "suspicious": {
         "noImplicitAnyLet": "warn",
-        "noExplicitAny": "warn"
+        "noExplicitAny": "warn",
+        "noArrayIndexKey":"off"
       }
 		}
 	},
