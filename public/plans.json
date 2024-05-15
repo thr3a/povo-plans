@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "capacity": 1,
+      "time": 8760,
+      "price": 1200
+    },
+    {
+      "capacity": 30,
+      "time": 720,
+      "price": 3260
+    },
+    {
+      "capacity": 30,
+      "time": 4320,
+      "price": 5580
+    },
+    {
+      "capacity": 12,
+      "time": 8760,
+      "price": 5800
+    },
+    {
+      "capacity": 132,
+      "time": 8760,
+      "price": 20760
+    },
+    {
+      "capacity": 365,
+      "time": 8760,
+      "price": 29800
+    },
+    {
+      "capacity": -1,
+      "time": 0,
+      "price": 330
+    },
+    {
+      "capacity": 1,
+      "time": 168,
+      "price": 390
+    },
+    {
+      "capacity": 3,
+      "time": 720,
+      "price": 990
+    },
+    {
+      "capacity": 20,
+      "time": 720,
+      "price": 2700
+    },
+    {
+      "capacity": 60,
+      "time": 2160,
+      "price": 6490
+    },
+    {
+      "capacity": 300,
+      "time": 2160,
+      "price": 9834
+    },
+    {
+      "capacity": -1,
+      "time": 168,
+      "price": 9834
+    },
+    {
+      "capacity": 150,
+      "time": 4320,
+      "price": 12980
+    },
+    {
+      "capacity": 3,
+      "time": 0,
+      "price": 300
+    },
+    {
+      "capacity": -1,
+      "time": 168,
+      "price": 1145
+    },
+    {
+      "capacity": -1,
+      "time": 0,
+      "price": 220
+    },
+    {
+      "capacity": 0,
+      "time": 0,
+      "price": 550
+    },
+    {
+      "capacity": 0,
+      "time": 0,
+      "price": 1650
+    }
+  ]
+}
